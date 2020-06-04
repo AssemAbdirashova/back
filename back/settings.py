@@ -26,7 +26,7 @@ SECRET_KEY = '@03=#%q(cx(w49*7ntgd!a&^m0)r^*!tm06h8c49irc0v9dpoa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-ALLOWED_HOSTS = ['backofizdeme.herokuapp.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['https://izdeme.herokuapp.com/', '127.0.0.1', 'localhost']
 
 # Application definition
 
